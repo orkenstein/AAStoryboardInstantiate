@@ -47,7 +47,7 @@ static NSMutableDictionary *ControllerToStoryboardMapDictionary = nil;
     }
 
     if (vc == nil) {
-        PDLog(@"VC instantiation: cannot find VC with ID %@", identifier);
+        NSLog(@"VC instantiation: cannot find VC with ID %@", identifier);
     }
     
     return vc;
