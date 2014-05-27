@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/orkenstein/AAStoryboardInstantiate'
   s.license          = 'MIT'
   s.author           = { "orkenstein" => "orkru666@gmail.com" }
-  s.source           = { :git => "https://github.com/orkenstein/AAStoryboardInstantiate.git", :tag => 'v1.0' }
+  s.source           = { :git => "https://github.com/orkenstein/AAStoryboardInstantiate.git", :tag => '0.0.1' }
   s.platform     = :ios, '7.0'
   s.requires_arc = true
   s.source_files = 'Classes/ios/UIViewController+instantiate.{h,m}'
