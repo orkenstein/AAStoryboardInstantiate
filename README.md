@@ -1,4 +1,4 @@
-# AAStoryboardInstantiate
+# AAStoryboardInstantiate ![License MIT](https://go-shields.herokuapp.com/license-MIT-blue.png)
 
 [![Version](http://cocoapod-badges.herokuapp.com/v/AAStoryboardInstantiate/badge.png)](http://cocoadocs.org/docsets/AAStoryboardInstantiate)
 [![Platform](http://cocoapod-badges.herokuapp.com/p/AAStoryboardInstantiate/badge.png)](http://cocoadocs.org/docsets/AAStoryboardInstantiate)
