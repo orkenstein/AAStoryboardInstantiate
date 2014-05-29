@@ -6,7 +6,7 @@
 ## Usage
 
 1. Add `#import <UIViewController+instantiate.h>` anywhere you need. Your `.pch` file is the best place.
-2. Set Storyboard ID for View Controller you want to use. For example `@"MyCoolHomeScreen"`.
+2. Set Storyboard ID for View Controller you want to use. For example `@"MyCoolHomeScreen"`.![Storyboard ID](https://raw.githubusercontent.com/orkenstein/AAStoryboardInstantiate/master/Images/StoryboardID.png)
 3. Now you can simply instantiate View Controllers right from your storyboards using this code:
 ```
 - (void)someAction {
