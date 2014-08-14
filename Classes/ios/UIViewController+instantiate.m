@@ -48,6 +48,7 @@ static NSMutableDictionary *ControllerToStoryboardMapDictionary = nil;
 
     if (vc == nil) {
         NSLog(@"VC instantiation: cannot find VC with ID %@", identifier);
+        vc = [[self alloc] init];
     }
     
     return vc;
